@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+meiyitangyangye!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Meiyitangyang!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%92%BB" alt="Typing SVG" />
 
 ---
 
@@ -15,36 +15,36 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meiyitangyangye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meiyitangyang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meiyitangyangye&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiyitangyang&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=meiyitangyangye&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meiyitangyang&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meiyitangyangye/meiyitangyangye/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meiyitangyangye/meiyitangyangye/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meiyitangyangye/meiyitangyangye/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meiyitangyang/Meiyitangyang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meiyitangyang/Meiyitangyang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meiyitangyang/Meiyitangyang/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=meiyitangyangye&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Meiyitangyang&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
 ### 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meiyitangyangye&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meiyitangyang&theme=tokyo-night&hide_border=true)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=meiyitangyangye&color=blue&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Meiyitangyang&color=blue&style=flat-square" alt="Profile Views" />
 
 </div>
